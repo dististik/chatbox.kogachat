@@ -12,5 +12,5 @@ Feel free to suggest changes or report bugs with issues or pull requests. No rea
 
 ## "Dependancies"
 
-[Streamlabs (external link)](http://streamlabs.com/)
-[OpenDyslexic (external link)](https://gumroad.com/l/OpenDyslexic)
++ [Streamlabs (external link)](http://streamlabs.com/)
++ [OpenDyslexic (external link)](https://gumroad.com/l/OpenDyslexic)
