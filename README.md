@@ -4,7 +4,7 @@ KogaChat is a fancy name for just a few files used on Streamlabs for the chatbox
 
 ## How to use
 
-Just copy and paste the contents of src/index.html, src/style.css, and src/script.js into the HTML, CSS, and JS tabs respectively in Streamlabs' chatbox with "Enable Custom HTML/CSS" set to Enabled.
+Just copy and paste the contents of [src/index.html](https://github.com/dististik/streamlabs.kogachat/blob/master/src/index.html), [src/style.css](https://github.com/dististik/streamlabs.kogachat/blob/master/src/style.css), and [src/script.js](https://github.com/dististik/streamlabs.kogachat/blob/master/src/script.js) into the HTML, CSS, and JS tabs respectively in Streamlabs' chatbox with "Enable Custom HTML/CSS" set to Enabled.
 
 ## Contributing
 
