@@ -30,13 +30,13 @@ body {
 }
 
 #log {
-    /*display: table;*/
+    display: table;
     position: absolute;
     bottom: 0;
     left: 0;
     padding: 0 10px 10px;
     width: 100%;
-    /*table-layout: fixed;*/
+    table-layout: fixed;
 }
 
 #log>div {
