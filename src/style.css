@@ -93,20 +93,16 @@ body {
 
 /* Garbo custom code idk man it works */
 
-.name {
-    /* */
-}
-
 .badges img {
     margin-right:0.2em;
 }
-/*
-.badges img:last-child {
-    margin-right:0.2em;
-}*/
 
 div.msg-box-101 {
     margin-top: 0.2em;
     height: 1.1em;
     display: table-row;
+}
+
+.Nightbot {
+    display: none;
 }
