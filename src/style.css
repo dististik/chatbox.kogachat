@@ -18,7 +18,6 @@ body {
     background: rgba(0,0,0,0);
     font-family: 'OpenDyslexic';
     font-weight: 700;
-    font-size: {16px};
     line-height: 1.5em;
     color: #FAFAFA;
 }
@@ -46,7 +45,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    padding: 0.4em 0.2em;
+    padding: 23px 3px;
     position: relative;
 }
 
@@ -72,7 +71,7 @@ body {
 
 #log .message {
     word-wrap: break-word;
-    width: 65%;
+    width: 100%;
 }
 
 .badge {
