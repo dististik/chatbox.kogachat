@@ -1,6 +1,6 @@
 /* Import OpenDyslexic font through CDN */
 
-@import url(https://cdn.clarkhacks.com/OpenDyslexic/v2/OpenDyslexic.css);
+@import url(https://cdn.jsdelivr.net/npm/open-dyslexic@1.0.3/open-dyslexic-regular.css);
 
 /* Modified default rules */
 
@@ -16,7 +16,7 @@ html, body {
 body {
     text-shadow: 0 0 1px #000, 0 0 2px #000;
     background: rgba(0,0,0,0);
-    font-family: 'OpenDyslexic';
+    font-family: 'OpenDyslexicRegular','Verdanda',sans-serif;
     font-weight: 700;
     line-height: 1.5em;
     color: #FAFAFA;
