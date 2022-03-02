@@ -34,13 +34,13 @@ If your chatbox ever breaks while using KogaChat through the below snippets, you
 ## CSS Snippet
 
 ```css
-@import url(https://cdn.jsdelivr.net/gh/dististik/chatbox.kogachat@latest/src/style.css);
+@import url(https://cdn.jsdelivr.net/gh/dististik/chatbox.kogachat/src/style.css);
 ```
 
 ## JS Snippet
 
 ```javascript
-$.getScript("https://cdn.jsdelivr.net/gh/dististik/chatbox.kogachat@latest/src/script.js", function() {
+$.getScript("https://cdn.jsdelivr.net/gh/dististik/chatbox.kogachat/src/script.js", function() {
    console.log("Script loaded.");
 });
 ```
